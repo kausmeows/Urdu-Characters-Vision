@@ -67,7 +67,7 @@ title = "Urdu Characters Vision ☪︎👁"
 description = "An TinyVGG feature extractor computer vision model to classify images of urdu characters [23 different classes]"
 
 # Create examples list from "static/" directory
-example_list = [["static/" + example] for example in os.listdir("static")]
+example_list = [["examples/" + example] for example in os.listdir("examples")]
 
 # Create Gradio interface 
 demo = gr.Interface(
