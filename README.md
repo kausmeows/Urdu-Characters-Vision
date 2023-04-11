@@ -9,3 +9,5 @@ app_file: app.py
 pinned: false
 license: cc
 ---
+
+[![Sync to Hugging Face hub](https://github.com/nogibjj/hugging-face/actions/workflows/main.yml/badge.svg)](https://github.com/nogibjj/hugging-face/actions/workflows/main.yml)
